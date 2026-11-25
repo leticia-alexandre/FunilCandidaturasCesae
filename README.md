@@ -87,7 +87,7 @@ O dashboard em Power BI tem 5 páginas, cada uma a responder a uma pergunta:
 | Team Leader | Aline Gomes |
 | Data Analyst | Andreza Silva |
 | Data Analyst | Letícia Alexandre |
-| Data Analyst | Shaini Dittberner |
+| Data Analyst | @shaiDitt |
 
 ## 🙏 Agradecimentos
 
